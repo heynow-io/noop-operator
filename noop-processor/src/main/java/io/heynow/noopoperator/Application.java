@@ -1,7 +1,7 @@
-package noopoperator;
+package io.heynow.noopoperator;
 
-import io.heynow.poc.router.Note;
-import io.heynow.poc.router.Router;
+import io.heynow.note.Note;
+import io.heynow.router.Router;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

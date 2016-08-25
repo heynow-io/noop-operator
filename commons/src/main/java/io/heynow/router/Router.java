@@ -1,5 +1,7 @@
-package io.heynow.poc.router;
+package io.heynow.router;
 
+import io.heynow.note.Note;
+import io.heynow.note.NoteMessage;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.stream.annotation.EnableBinding;

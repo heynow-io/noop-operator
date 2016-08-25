@@ -1,4 +1,4 @@
-package io.heynow.poc.router;
+package io.heynow.router;
 
 public class IncorectRoutingException extends RuntimeException {
     public IncorectRoutingException(String msg) {

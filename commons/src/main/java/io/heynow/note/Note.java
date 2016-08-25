@@ -1,4 +1,4 @@
-package io.heynow.poc.router;
+package io.heynow.note;
 
 import java.io.Serializable;
 
